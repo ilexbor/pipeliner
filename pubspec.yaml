@@ -3,7 +3,8 @@ name: pipeliner
 version: '0.1.0'
 
 description: >
-  TODO
+  Effortlessly build and manage pipelines in Dart.
+  Perfect for handling sequences of tasks or transforming data step-by-step.
 
 dev_dependencies:
   lintorium: ^0.1.3
