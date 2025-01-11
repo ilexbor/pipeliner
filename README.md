@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#027DFD; font-family: 'Courier New', 'Courier', monospace; font-weight: 200;">{ pipeliner }</h1>
+<h1 style="color:#027DFD; font-family: 'Courier New', 'Courier', monospace; font-weight: 200;">{ PIPELINER }</h1>
 
 [![](https://img.shields.io/github/v/release/ilexbor/pipeliner?style=for-the-badge&logo=github&color=181717&label=GitHub%20Release)](https://github.com/ilexbor/pipeliner)
 [![](https://img.shields.io/pub/v/pipeliner.svg?style=for-the-badge&logo=dart&color=0553B1&label=Pub%20Release)](https://pub.dev/packages/pipeliner)
