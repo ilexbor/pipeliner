@@ -29,6 +29,7 @@ platforms:
 topics:
   - pipe
   - pipeline
+  - transformer
   - chain
   - middleware
 
