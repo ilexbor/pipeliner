@@ -1,2 +1,5 @@
 include: package:lintorium/analysis_options.yaml
 
+formatter:
+  page_width: 123
+
