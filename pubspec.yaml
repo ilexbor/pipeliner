@@ -1,22 +1,22 @@
 name: pipeliner
 
-version: '0.1.0'
+version: '0.2.0'
+
+license: 'BSD-3-Clause'
+
+repository: https://github.com/ilexbor/pipeliner
+
+issue_tracker: https://github.com/ilexbor/pipeliner/issues
 
 description: >
   Effortlessly build and manage pipelines in Dart.
   Perfect for handling sequences of tasks or transforming data step-by-step.
 
 dev_dependencies:
-  lintorium: ^0.1.3
+  lintorium: ^1.0.0
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
-
-repository: https://github.com/ilexbor/pipeliner
-
-issue_tracker: https://github.com/ilexbor/pipeliner/issues
-
-license: 'BSD-3-Clause'
 
 platforms:
   android:
@@ -32,4 +32,3 @@ topics:
   - transformer
   - chain
   - middleware
-

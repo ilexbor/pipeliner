@@ -1,3 +1,5 @@
+// ignore_for_file: document_ignores
+
 part of '../pipeliner_library.dart';
 
 interface class PipelinerRootBody<OUTPUT> implements Pipeliner<void, OUTPUT> {
@@ -21,6 +23,8 @@ interface class PipelinerBody<INPUT, OUTPUT> implements Pipeliner<INPUT, OUTPUT>
   );
 
   final Pipeliner<dynamic, INPUT> _previousPipeliner;
+
+  // ignore: unsafe_variance
   final PipelinerHandlerFunc<INPUT, OUTPUT> _handler;
 
   // Defined for open source developers
