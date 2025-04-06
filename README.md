@@ -13,7 +13,7 @@ Effortlessly build and manage pipelines in Dart. Perfect for handling sequences 
 
 ## Compatibility
 
-Pipeliner requires `Dart 3.0.0` or later.
+Pipeliner requires `Dart SDK` version `3.0.0 or later`.
 
 ## Installation
 
