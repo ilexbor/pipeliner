@@ -6,6 +6,12 @@ build/
 doc/api/
 
 ##
+## Dart Version Manager
+##
+
+.dvm/
+
+##
 ## macOS
 ##
 
