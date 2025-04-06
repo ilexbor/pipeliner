@@ -1,4 +1,4 @@
-library pipeliner_library;
+library;
 
 import 'dart:async';
 
