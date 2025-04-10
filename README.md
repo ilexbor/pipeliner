@@ -17,6 +17,8 @@ Perfect for handling sequences of tasks or transforming data step-by-step.
 - [Compatibility](#compatibility)
 - [Installation](#installation)
 - [Usage](#usage)
+  - [Api reference](#api-reference)
+  - [Example](#example)
   - [Adding steps to the pipeline](#adding-steps-to-the-pipeline)
   - [Running the pipeline](#running-the-pipeline)
 - [Changelog](#changelog)
@@ -43,6 +45,12 @@ Pipeliner requires `Dart SDK` version `3.0.0 or later`.
     ```
 
 ## Usage
+
+### Api reference
+
+The documentation is available at: [API Reference](https://pub.dev/documentation/pipeliner/latest/)
+
+### Example
 
 The Pipeliner package allows you to create pipelines where each step processes input and produces output.
 
