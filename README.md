@@ -9,7 +9,20 @@
 
 </div>
 
-Effortlessly build and manage pipelines in Dart. Perfect for handling sequences of tasks or transforming data step-by-step.
+Effortlessly build and manage pipelines in Dart. 
+Perfect for handling sequences of tasks or transforming data step-by-step.
+
+## Table of contents
+
+- [Compatibility](#compatibility)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Adding steps to the pipeline](#adding-steps-to-the-pipeline)
+  - [Running the pipeline](#running-the-pipeline)
+- [Changelog](#changelog)
+- [Issues](#issues)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Compatibility
 
