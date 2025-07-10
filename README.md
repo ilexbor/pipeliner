@@ -114,7 +114,9 @@ Your feedback is valuable and will help improve the package!
 ## Contributing
 
 Contributions are welcome!  
-Please fork this repository and submit pull requests.
+Please [fork this repository](https://github.com/ilexbor/pipeliner/fork) and [submit pull requests](https://github.com/ilexbor/pipeliner/pulls).
+
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
