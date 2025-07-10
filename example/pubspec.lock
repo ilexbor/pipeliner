@@ -5,16 +5,16 @@ packages:
     dependency: "direct dev"
     description:
       name: lintorium
-      sha256: e4ddf37991c9c6fdf5284369476a2b9add1be825f2095e5c6a9d2c2c24bec1f9
+      sha256: "1c2970a1a376c90faec81d3a6f1783de2c729fae3a79298a1bde92e949b72807"
       url: "https://pub.dev"
     source: hosted
-    version: "1.7.0"
+    version: "38.0.0"
   pipeliner:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.2.2"
+    version: "1.0.0"
 sdks:
-  dart: ">=3.7.0 <4.0.0"
+  dart: ">=3.8.0 <4.0.0"

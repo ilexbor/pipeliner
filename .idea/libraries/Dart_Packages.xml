@@ -5,14 +5,14 @@
         <entry key="lintorium">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lintorium-1.7.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lintorium-38.0.0/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/lintorium-1.7.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/lintorium-38.0.0/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

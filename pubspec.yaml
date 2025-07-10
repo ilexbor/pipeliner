@@ -1,6 +1,6 @@
 name: pipeliner
 
-version: '0.2.2'
+version: 1.0.0
 
 license: 'BSD-3-Clause'
 
@@ -13,7 +13,7 @@ description: >
   Perfect for handling sequences of tasks or transforming data step-by-step.
 
 dev_dependencies:
-  lintorium: ^1.0.0
+  lintorium: ">=30.0.0"
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
