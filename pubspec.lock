@@ -5,9 +5,9 @@ packages:
     dependency: "direct dev"
     description:
       name: lintorium
-      sha256: "1c2970a1a376c90faec81d3a6f1783de2c729fae3a79298a1bde92e949b72807"
+      sha256: fcaf2e4e5a4f8d7da423ee8ed897302e53ddb3cac2c86862fc672dc12284b6c0
       url: "https://pub.dev"
     source: hosted
-    version: "38.0.0"
+    version: "310.0.0"
 sdks:
-  dart: ">=3.8.0 <4.0.0"
+  dart: ">=3.10.0 <4.0.0"

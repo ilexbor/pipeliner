@@ -13,7 +13,7 @@ description: >
   Perfect for handling sequences of tasks or transforming data step-by-step.
 
 dev_dependencies:
-  lintorium: ">=30.0.0"
+  lintorium: ">=300.0.0"
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
