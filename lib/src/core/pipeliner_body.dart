@@ -8,7 +8,6 @@ interface class PipelinerRootBody<OUTPUT> implements Pipeliner<void, OUTPUT> {
   final PipelinerInitializerFunc<OUTPUT> _initializer;
 
   // Defined for open source developers
-  // ignore: unused_element
   Pipeliner<dynamic, void>? get _previousPipeliner => null;
 
   FutureOr<OUTPUT> call() {

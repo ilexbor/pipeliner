@@ -15,6 +15,5 @@ abstract interface class PipelinerContract<INPUT, OUTPUT> {
   ///
   /// Links this node to the previous one.
   /// Used internally for building pipeline chains.
-  // ignore: unused_element
   Pipeliner<dynamic, INPUT>? get _previousPipeliner;
 }
